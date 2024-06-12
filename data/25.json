@@ -1,24 +1,12 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 78051190,
+    "name": "Night Rider",
+    "author": "ImAnubis",
+    "creators": ["Ale, FerdeFunky, Doominator222, SrGuillester, KrmaL, ILRELL, Goose, Zobros, FirsGD, Mactanow, TrusTa, Enely, matty2003, Tongii, Michigun, NyamLock, JoshenJol, Juhou, Arctica, GaidenHertuny, Xaro, Surv, Cynvic, Zhander, Onnikonna, CuLuC, KWMS, Expy, lmAnubis, Mumalaengi voltex TamaN Osiris GD DesTicY knobbelboy, Sunix, MzeroGD, Riot, Koolboom, Samifying"],
+    "verifier": "SrGuillester",
+    "verification": "https://youtu.be/W2ZCSswy9RA?si=r005RdFO7IPCSkMw",
+    "percentToQualify": "64",
+    "password": "Free to Copy",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
-        }
     ]
 }
