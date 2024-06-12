@@ -1,24 +1,18 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 45866767,
+    "name": "Crimson Planet",
+    "author": "TrueOmega",
+    "creators": ["TrueOmega & more"],
+    "verifier": "guillester",
+    "verification": "https://youtu.be/yqoI4TCmKdM?si=0XWypFc8A0KlUeK1",
+    "percentToQualify": "53",
+    "password": "123456",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "kucouski",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "percent": 60,
+            "hz": 240
         }
     ]
 }
