@@ -13,7 +13,7 @@ export default {
             required: true,
         },
     },
-    template: 
+    template: `
         <div class="level-authors">
             <template v-if="selfVerified">
                 <div class="type-title-sm">Creator & Verifier</div>
@@ -34,7 +34,7 @@ export default {
             <template v-else>
                 <div class="type-title-sm">Creators</div>
                 <p class="type-body">
-                    <template v-for="(creator, index) in creators" :key="\creator-${creator}`">
+                    <template v-for="(creator, index) in creators" :key="\`creator-\$\{creator\}\`">
                         <span >{{ creator }}</span
                         ><span v-if="index < creators.length - 1">, </span>
                     </template>
