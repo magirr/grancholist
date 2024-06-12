@@ -8,7 +8,7 @@ export default {
             type: Array,
             required: true,
         },
-        first_victor: {
+        verifier: {
             type: String,
             required: true,
         },
