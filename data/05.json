@@ -1,9 +1,9 @@
 {
     "id": 68353244,
     "name": "Nhelv",
-    "author": "guillester",
-    "creators": ["guillester", "notlsa", "Dienid"],
-    "verifier": "guillester",
+    "author": "SrGuillester",
+    "creators": ["SrGuillester", "notlsa", "Dienid"],
+    "verifier": "SrGuillester",
     "verification": "https://youtu.be/k117h9HUt6s?si=eOsHOVtXCCc7nVwq",
     "percentToQualify": "57",
     "password": "Free to Copy",
@@ -16,8 +16,8 @@
         },   
         {
             "user": "stellium",
-            "link": "",
-            "percent": 69,
+            "link": "https://www.youtube.com/watch?v=OGAN18gQW9M&t=1s",
+            "percent": 64,
             "hz": 330
         },
         {
