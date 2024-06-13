@@ -8,5 +8,11 @@
     "percentToQualify": "65",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Vegardo",
+            "link": "https://www.youtube.com/watch?v=YnmxT6Z-lxM",
+            "percent": 100,
+            "hz": 9999
+        }
     ]
 }
