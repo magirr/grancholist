@@ -1,0 +1,18 @@
+{
+    "id": 19759411,
+    "name": "Phobos",
+    "author": "KrmaL",
+    "creators": ["Jo2000, Andromeda, Razur, xSmokes, Tygrysek, DreamEater, Kubs0n, WOOGI1411, Tandrii, Riqirez, Jobet, GMTSean, Palery, KobaZz, Technet, iBlade, Skitten, Caernarvon725, Nitro451, Iqrar99"],
+    "verifier": "SrGuillester",
+    "verification": "https://www.youtube.com/watch?v=zHebJMyD-l4",
+    "percentToQualify": "54",
+    "password": "318008",
+    "records": [
+        {
+            "user": "guitarherostyles",
+            "link": "https://www.youtube.com/watch?v=fVfas36aMDw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
