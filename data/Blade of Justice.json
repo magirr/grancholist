@@ -1,0 +1,24 @@
+{
+    "id": 35448603,
+    "name": "Blade of Justice",
+    "author": "Manix648",
+    "creators": ["LazerBlitz, Manix648, Panman"],
+    "verifier": "SrGuillester",
+    "verification": "https://www.youtube.com/watch?v=bowZ1d7ds3A",
+    "percentToQualify": "58",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "Vegardo",
+            "link": "https://www.youtube.com/watch?v=O-Vx26zPUcU&t=3s",
+            "percent": 100,
+            "hz": 9999
+        },
+        {
+            "user": "Zion",
+            "link": "https://www.youtube.com/watch?v=b3kIRsS-sQc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
